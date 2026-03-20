@@ -1,15 +1,15 @@
 # Hi, I'm Izzy!
 
-I am a [Highscooler] interested in [Programming, Engineering, and Astronomy]. I enjoy building [the logic part of projects].
+I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjoy building the logic part of projects.
 
 ## What I'm Working On
-- Building: [Functioning Calculator]
-- Learning: [Java, luau, and python]
-- Goal: [Getting a better understanding of how to make websites]
+- Building: Functioning Calculator
+- Learning: Java, luau, and python
+- Goal: Getting a better understanding of how to make websites
 
 ## Tech Stack
-- Languages: [Java, and luau]
-- Tools: [Git, Intelij, VS Code, Scratch, and Replit]
+- Languages: Java, and luau
+- Tools: Git, Intelij, VS Code, Scratch, and Replit
 
 ## Featured Projects
 - [Project 1](https://github.com/Phantom-StormX/HighLoww2): A fun, classic number guessing game
