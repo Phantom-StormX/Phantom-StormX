@@ -21,5 +21,5 @@ I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjo
 - I love to study and learn about astronomy
 - I love to watch formula one, and anime
 - I play a lot of video games and read(mainly sci-fi and fantasy)
-- I am tiny hands [https://github.com/ElliottAndCoachGeorge]
+- I am tiny hands https://github.com/ElliottAndCoachGeorge
 ```
