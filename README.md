@@ -8,7 +8,7 @@ I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjo
 - Goal: Getting a better understanding of how to make websites
 
 ## Tech Stack
-- Languages: Java, and luau
+- Languages: Java, Markdown, and luau
 - Tools: Git, Intelij, VS Code, Scratch, and Replit
 
 ## Featured Projects
