@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Izzy!
 
-<!--
-**Phantom-StormX/Phantom-StormX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a [Highscooler] interested in [Programming, Engineering, and Astronomy]. I enjoy building [the logic part of projects].
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Building: [Functioning Calculator]
+- Learning: [Java, luau, and python]
+- Goal: [Getting a better understanding of how to make websites]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: [Java, and luau]
+- Tools: [Git, Intelij, VS Code, Scratch, and Replit]
+
+## Featured Projects
+- [Project 1](https://github.com/Phantom-StormX/HighLoww2): A fun, classic number guessing game
+- [Project 2]([https://github.com/your-username/project-2](https://github.com/BeachGirlE/RPSL_Sprock.java)): A game of rock, paper, scissor, lizard and spock!
+
+## Connect With Me
+- Email: Impichler@thewildcats.net or Gapichler@icloud.com
+
+## Fun Facts about me!
+- I love to swim competitvely
+- I'm a theatre kid(techie)
+- I love to study and learn about astronomy
+- I love to watch formula one, and anime
+```
