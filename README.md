@@ -13,7 +13,7 @@ I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjo
 
 ## Featured Projects
 - [Project 1](https://github.com/Phantom-StormX/HighLoww2): A fun, classic number guessing game
-- [Project 2]((https://github.com/BeachGirlE/RPSL_Sprock.java)): A game of rock, paper, scissor, lizard and spock!
+- [Project 2](https://github.com/BeachGirlE/RPSL_Sprock.java): A game of rock, paper, scissor, lizard and spock!
 
 ## Fun Facts about me!
 - I love to swim competitvely
