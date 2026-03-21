@@ -1,3 +1,4 @@
+# 🪐🏎️🎭💻🎮🏊‍♀️
 # Hi, I'm Izzy!
 
 I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjoy building the logic part of projects.
