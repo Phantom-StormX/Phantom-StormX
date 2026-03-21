@@ -1,7 +1,7 @@
-# 🪐🏎️🎭💻🎮🏊‍♀️
-# Hi, I'm Izzy!
+# . ݁₊ ⊹ . ݁ ⟡  Hi, I'm Izzy! ⟡ . ݁₊ ⊹ . ݁ 
 
 I am a Highscooler interested in Programming, Engineering, and Astronomy. I enjoy building the logic part of projects.
+
 
 ## What I'm Working On
 - Building: Functioning Calculator
