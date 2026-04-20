@@ -15,6 +15,7 @@
 ## . ݁₊ ⊹ . ݁ Featured Projects . ݁₊ ⊹ . ݁ 
 - [Project 1](https://github.com/Phantom-StormX/HighLoww2): A fun, classic number guessing game
 - [Project 2](https://github.com/BeachGirlE/RPSL_Sprock.java): A game of rock, paper, scissor, lizard and spock!
+- [Project 3](https://github.com/DaNoob8157/JavaCalc): A simple calculator with different utility panels!
 
 ## . ݁₊ ⊹ . ݁ Fun Facts about me! . ݁₊ ⊹ . ݁ 
 - I love to swim competitvely
