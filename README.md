@@ -24,4 +24,3 @@
 - I watch formula one, and anime
 - I play a lot of video games and read(mainly sci-fi and fantasy)
 - I am tiny hands (https://github.com/ElliottAndCoachGeorge)
-```
