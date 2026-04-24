@@ -4,7 +4,7 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: Functioning Calculator
+- Building: Ceaser Cipher decoder and encoder using javaFX
 - Learning: Java, luau, and python
 - Goal: Getting a better understanding of how to make websites
 
@@ -18,10 +18,10 @@
 - [Project 3](https://github.com/DaNoob8157/JavaCalc): A simple calculator with different utility panels!
 
 ## . ݁₊ ⊹ . ݁ Fun Facts about me! . ݁₊ ⊹ . ݁ 
-- I love to swim competitvely
+- I swim competitvely
 - I'm a theatre kid(techie)
 - I love to study and learn about astronomy
-- I love to watch formula one, and anime
+- I watch formula one, and anime
 - I play a lot of video games and read(mainly sci-fi and fantasy)
 - I am tiny hands (https://github.com/ElliottAndCoachGeorge)
 ```
