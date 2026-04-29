@@ -4,7 +4,7 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: Ceaser Cipher decoder and encoder using javaFX
+- Building: Functioning Tetris game in java code
 - Learning: Java, luau, and python
 - Goal: Getting a better understanding of how to make websites
 
@@ -17,6 +17,7 @@
 - [Project 2](https://github.com/BeachGirlE/RPSL_Sprock.java): A game of rock, paper, scissor, lizard and spock!
 - [Project 3](https://github.com/DaNoob8157/JavaCalc): A simple calculator with different utility panels!
 - [Project 4](https://github.com/Phantom-StormX/CeaserCypher-Java): A Ceaser Cipher decoder and encoder made using JavaFX
+- [Project 5](https://github.com/Phantom-StormX/VigenereCipher-Java):  A Vigenere Cipher decoder and encoder made using JavaFX
 
 ## . ݁₊ ⊹ . ݁ Fun Facts about me! . ݁₊ ⊹ . ݁ 
 - I swim competitvely
