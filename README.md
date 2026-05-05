@@ -4,7 +4,7 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: Functioning Tetris game in java code
+- Building: Functioning 3036(bascially like 2048 but instead of it going by 2s, it goes by 3s) game in java
 - Learning: Java, luau, and python
 - Goal: Getting a better understanding of how to make websites
 
