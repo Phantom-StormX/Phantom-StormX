@@ -4,7 +4,7 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: Functioning 3056(bascially like 2048 but instead of it going by 2s, it goes by 3s) game in java
+- Building: Functioning 3072(bascially like 2048 but instead of it going by 2s, it goes by 3s) game in java
 - Learning: Java, CSS, and python
 - Goal: Getting a better understanding of how to make websites
 
