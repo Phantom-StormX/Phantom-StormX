@@ -18,6 +18,7 @@
 - [Project 3](https://github.com/DaNoob8157/JavaCalc): A simple calculator with different utility panels!
 - [Project 4](https://github.com/Phantom-StormX/CeaserCypher-Java): A Ceaser Cipher decoder and encoder made using JavaFX
 - [Project 5](https://github.com/Phantom-StormX/VigenereCipher-Java):  A Vigenere Cipher decoder and encoder made using JavaFX
+- [Project 6](https://github.com/Phantom-StormX/3072-Java/tree/main): A fully functional 3072 game (based off of 2048) using JavaFX
 
 ## . ݁₊ ⊹ . ݁ Fun Facts about me! . ݁₊ ⊹ . ݁ 
 - I swim competitvely
