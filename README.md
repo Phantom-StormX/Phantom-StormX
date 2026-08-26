@@ -4,9 +4,9 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: Functioning 3072(bascially like 2048 but instead of it going by 2s, it goes by 3s) game in java
-- Learning: Java, CSS, and python
-- Goal: Getting a better understanding of how to make websites
+- Building: N/A
+- Learning: CSS, and python
+- Goal: Getting a better understanding of how to make websites/apps
 
 ## . ݁₊ ⊹ . ݁ Tech Stack . ݁₊ ⊹ . ݁ 
 - Languages: Java, Markdown, and luau
@@ -21,7 +21,7 @@
 - [Project 6](https://github.com/Phantom-StormX/3072-Java/tree/main): A fully functional 3072 game (based off of 2048) using JavaFX
 
 ## . ݁₊ ⊹ . ݁ Fun Facts about me! . ݁₊ ⊹ . ݁ 
-- I swim competitvely
+- I swim competitvely, and clay shoot
 - I'm a theatre kid(techie)
 - I love to study and learn about astronomy
 - I watch formula one, and anime
