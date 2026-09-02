@@ -25,5 +25,5 @@
 - I'm a theatre kid(techie)
 - I love to study and learn about astronomy
 - I watch formula one, and anime
-- I play a lot of video games and read(mainly sci-fi and fantasy)
+- I play a lot of video games and build with legos :)
 - I am tiny hands (https://github.com/ElliottAndCoachGeorge)
