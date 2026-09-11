@@ -4,7 +4,7 @@
 
 
 ## . ݁₊ ⊹ . ݁ What I'm Working On . ݁₊ ⊹ . ݁ 
-- Building: N/A
+- Building: A digital art gallery using python
 - Learning: CSS, and python
 - Goal: Getting a better understanding of how to make websites/apps
 
